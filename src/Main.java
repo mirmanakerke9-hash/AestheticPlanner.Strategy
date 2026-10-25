@@ -12,9 +12,9 @@ public class Main {
         strategies.put("2", new CozyStrategy());
         strategies.put("3", new StudycoreStrategy());
 
-        System.out.println("================================");
-        System.out.println("       AESTHETIC PLANNER");
-        System.out.println("================================");
+        System.out.println(" ");
+        System.out.println("   AESTHETIC PLANNER");
+        System.out.println(" ");
 
         System.out.print("Enter your main goal: ");
         String goal = scanner.nextLine();

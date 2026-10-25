@@ -3,7 +3,7 @@ public class CozyStrategy implements PlannerStrategy {
     @Override
     public String createPlan(String goal) {
         return """
-                === COZY DAILY PLAN ===
+                 COZY DAILY PLAN 
                 Main goal: %s
 
                 09:00 - Start the day slowly

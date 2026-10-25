@@ -3,7 +3,7 @@ public class MinimalistStrategy implements PlannerStrategy {
     @Override
     public String createPlan(String goal) {
         return """
-                === MINIMALIST DAILY PLAN ===
+                 MINIMALIST DAILY PLAN 
                 Main goal: %s
 
                 09:00 - Choose the 3 most important tasks

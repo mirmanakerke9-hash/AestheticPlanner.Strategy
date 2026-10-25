@@ -3,7 +3,7 @@ public class StudycoreStrategy implements PlannerStrategy {
     @Override
     public String createPlan(String goal) {
         return """
-                === STUDYCORE DAILY PLAN ===
+                 STUDYCORE DAILY PLAN 
                 Main goal: %s
 
                 08:30 - Review yesterday's notes
